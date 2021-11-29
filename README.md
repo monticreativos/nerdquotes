@@ -64,6 +64,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Nunca me siento tan solo como cuando necesito ponerme crema solar en la espalda.
+
+*Jimmy Kimmel*
+
+-------
+
 >Mejor Esperar un minuto de tu vida, que la vida en un minuto.
 
 *Boris Alarcon Milla*
